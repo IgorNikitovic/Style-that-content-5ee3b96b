@@ -1,0 +1,26 @@
+.navbar {
+	display: flex;
+	justify-content: space-around;
+	background: darkorange;
+}
+
+}
+
+.h1 {
+	text-align : center;
+	width: 100%;
+}
+
+.news { 
+	justify-content: center;
+	align-items: baseline;
+	width:33%;
+}
+
+.content {
+	display: flex;
+	flex-wrap: wrap;
+	background: orange;
+}
+
+.p {width: 100%}
